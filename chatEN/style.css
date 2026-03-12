@@ -38,6 +38,7 @@ header{
 h2{
     background: linear-gradient(to right, black, red);
     color: yellow;
+    border: 1px solid yellow;
     width: 60%;
     padding: 2%;
     text-align: center;
@@ -55,7 +56,7 @@ h2{
     font-size: 20px;
     padding: 15px;
     outline: none;
-    border: none;
+    border: 2px dotted red;
     box-shadow: inset 0px 0px 20px 2px black;
 }
 
